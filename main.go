@@ -9,6 +9,6 @@ import (
 
 func main() {
 	app.Run("BuyTomatoes", func(w *unison.Window) {
-		BuyTomatoes.New().Layout(w.Content())
+		w.Content().AddChild(BuyTomatoes.New().Layout())
 	})
 }
