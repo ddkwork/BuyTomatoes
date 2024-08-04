@@ -1,5 +1,5 @@
 {
- "id": "da62b141-41f1-4f6e-a57c-33d7e01b9896",
+ "id": "e8093aff-9d05-49d9-aee5-6ef284d3af85",
  "type": "root_container",
  "Data": {
   "Date": "0001-01-01T00:00:00Z",
@@ -21,7 +21,7 @@
  },
  "children": [
   {
-   "id": "afb5ebef-c982-4b25-966b-b75f962c3dee",
+   "id": "24d55aef-b4b4-4af9-84d3-97085178117d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -32,7 +32,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -43,10 +43,10 @@
    },
    "children": [
     {
-     "id": "a8255acc-fa9d-4117-8565-ca3bf88595db",
+     "id": "34db473f-4619-4a76-9664-a777c4bd2b2b",
      "type": "",
      "Data": {
-      "Date": "2024-08-04T21:10:22.1396578+08:00",
+      "Date": "2024-08-04T23:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 0,
       "Wagon": 11,
@@ -54,7 +54,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -67,10 +67,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "8da95327-444f-4d8e-bd1b-c56b4db290d9",
+     "id": "33d971a4-8ecf-4ddd-9fa0-1e6c09693504",
      "type": "",
      "Data": {
-      "Date": "2024-08-04T21:10:22.1396578+08:00",
+      "Date": "2024-08-04T23:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 0,
       "Wagon": 11,
@@ -78,7 +78,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -95,7 +95,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "4f92701a-3b9b-4209-b98d-1d1302b05971",
+   "id": "084981fb-44e5-4103-8fea-caa175d6434e",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -106,7 +106,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -117,10 +117,10 @@
    },
    "children": [
     {
-     "id": "82540255-581a-4977-ba3e-7938a809e82a",
+     "id": "73d0735e-8518-46ed-8cb0-9008fda86775",
      "type": "",
      "Data": {
-      "Date": "2024-08-04T22:10:22.1396578+08:00",
+      "Date": "2024-08-05T00:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 1,
       "Wagon": 11,
@@ -128,7 +128,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-04T22:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T00:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -145,7 +145,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "1e6808d7-7422-4455-b43f-09d122023e1b",
+   "id": "e73bcaa9-793c-4d86-8c80-d312cca233fb",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -156,7 +156,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -167,10 +167,10 @@
    },
    "children": [
     {
-     "id": "651a91fa-d593-47de-b0a7-7ed95fbb4a18",
+     "id": "69025fbc-97d7-4487-a5a8-78c8f22f6799",
      "type": "",
      "Data": {
-      "Date": "2024-08-04T23:10:22.1396578+08:00",
+      "Date": "2024-08-05T01:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 2,
       "Wagon": 11,
@@ -178,7 +178,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-04T23:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T01:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -191,10 +191,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "99ed600d-6931-4e74-b6e8-d5feca8efaa1",
+     "id": "15ba8a66-84e7-43b9-a5de-8359e8fb46e9",
      "type": "",
      "Data": {
-      "Date": "2024-08-04T23:10:22.1396578+08:00",
+      "Date": "2024-08-05T01:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 2,
       "Wagon": 11,
@@ -202,7 +202,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-04T23:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T01:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -219,7 +219,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "7cea39f4-4aeb-406b-b1b4-b192e5f43c88",
+   "id": "90e54eb3-a9f5-4ac0-a271-94e90fcb4852",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -230,7 +230,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -241,10 +241,10 @@
    },
    "children": [
     {
-     "id": "de3ba67d-f82f-45d1-9d1a-6f231bfe8ab4",
+     "id": "ca4de6a9-794a-4c74-a7bd-e67abeca2a2c",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T00:10:22.1396578+08:00",
+      "Date": "2024-08-05T02:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 3,
       "Wagon": 11,
@@ -252,7 +252,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T00:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T02:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -269,7 +269,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "7ff28d7e-5667-4076-923b-7ea29bd10eed",
+   "id": "098fd8d7-676b-4669-94de-ea1f4b9ebad2",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -280,7 +280,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -291,10 +291,10 @@
    },
    "children": [
     {
-     "id": "a1a50f83-25b0-4da8-ba7d-6ecbd613a535",
+     "id": "0d957620-611e-4c18-b59c-b26526035489",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T01:10:22.1396578+08:00",
+      "Date": "2024-08-05T03:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 4,
       "Wagon": 11,
@@ -302,7 +302,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T01:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T03:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -315,10 +315,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "b9bc8524-df47-420f-a927-2914794881d1",
+     "id": "386eaded-eb9d-4326-a974-3b09c73b5fca",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T01:10:22.1396578+08:00",
+      "Date": "2024-08-05T03:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 4,
       "Wagon": 11,
@@ -326,7 +326,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T01:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T03:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -343,7 +343,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "272e8dd6-1880-420e-8c57-8016a060499b",
+   "id": "d62485b6-06cc-404e-9903-4500db8d8f5a",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -354,7 +354,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -365,10 +365,10 @@
    },
    "children": [
     {
-     "id": "496587f9-9a17-4604-a514-8c68d0aac5c6",
+     "id": "b6e2a051-6126-4a76-ac00-7d3bd3d9d69e",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T02:10:22.1396578+08:00",
+      "Date": "2024-08-05T04:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 5,
       "Wagon": 11,
@@ -376,7 +376,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T02:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T04:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -393,7 +393,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "ec387811-3935-4dbe-b510-71d60c7677f5",
+   "id": "2ce83ca8-8a71-4a24-b644-a050002f5d42",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -404,7 +404,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -415,10 +415,10 @@
    },
    "children": [
     {
-     "id": "49a2862b-5814-4c8c-85db-31889a517384",
+     "id": "7e9b28a9-dbbf-4b0d-bfb3-546118e4d255",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T03:10:22.1396578+08:00",
+      "Date": "2024-08-05T05:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 6,
       "Wagon": 11,
@@ -426,7 +426,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T03:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T05:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -439,10 +439,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "e17b08da-5a99-47fb-9a51-d07c3b6e4891",
+     "id": "f3cbfb72-a4bf-4eb3-88f5-09e5f77ef215",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T03:10:22.1396578+08:00",
+      "Date": "2024-08-05T05:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 6,
       "Wagon": 11,
@@ -450,7 +450,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T03:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T05:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -467,7 +467,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "7b202bca-b62e-40c7-8b52-50bf7e8f55de",
+   "id": "5ec2eb61-4ffb-4499-9f12-d28c323bd2f5",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -478,7 +478,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -489,10 +489,10 @@
    },
    "children": [
     {
-     "id": "56237ae4-0fea-4d81-b026-a05a8b2124d8",
+     "id": "6634a1bf-62a3-4471-b6b5-c1a4685594c1",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T04:10:22.1396578+08:00",
+      "Date": "2024-08-05T06:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 7,
       "Wagon": 11,
@@ -500,7 +500,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T04:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T06:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -517,7 +517,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "ad74b6d1-98c6-42f8-aef3-2c8e8f53f327",
+   "id": "b673442c-0aab-42d1-80b1-b01f28a8a6ee",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -528,7 +528,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -539,10 +539,10 @@
    },
    "children": [
     {
-     "id": "b987ae7b-b0a2-4529-9884-2ec686859b3c",
+     "id": "1e6ff592-ba69-4f27-9e3a-130c32a2ce98",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T05:10:22.1396578+08:00",
+      "Date": "2024-08-05T07:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 8,
       "Wagon": 11,
@@ -550,7 +550,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T05:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T07:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -563,10 +563,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "c1271f32-2c92-4994-b5e5-46141426d2fa",
+     "id": "7bfedd50-0d64-491d-bf2e-499d7b4f698e",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T05:10:22.1396578+08:00",
+      "Date": "2024-08-05T07:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 8,
       "Wagon": 11,
@@ -574,7 +574,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T05:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T07:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -591,7 +591,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "5fe41c56-8a7f-476d-94c0-479687e8176e",
+   "id": "788ccb2f-9a78-4dfc-8db1-47715d561b6d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -602,7 +602,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -613,10 +613,10 @@
    },
    "children": [
     {
-     "id": "75bc6e9b-8688-496b-92b8-72e43ceeabfa",
+     "id": "9274f9d6-969a-4f41-a5a8-3b7285016993",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T06:10:22.1396578+08:00",
+      "Date": "2024-08-05T08:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 9,
       "Wagon": 11,
@@ -624,7 +624,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T06:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T08:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -641,7 +641,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "511bc1e6-6598-4590-84c8-ddd7953337a5",
+   "id": "9c868cb4-cff8-43f2-acfe-3716f320ea65",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -652,7 +652,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -663,10 +663,10 @@
    },
    "children": [
     {
-     "id": "f9df0568-608e-425d-b43d-87ef5a8076d7",
+     "id": "634fb76a-5c3d-4abe-ad6a-eecfbae228e6",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T07:10:22.1396578+08:00",
+      "Date": "2024-08-05T09:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 10,
       "Wagon": 11,
@@ -674,7 +674,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T07:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T09:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -687,10 +687,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "8084ea63-dd9d-49f8-a78f-e2870739b98f",
+     "id": "9d9ac4b0-77b3-46fb-8517-28f95135e39d",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T07:10:22.1396578+08:00",
+      "Date": "2024-08-05T09:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 10,
       "Wagon": 11,
@@ -698,7 +698,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T07:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T09:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -715,7 +715,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "7c615002-2960-42e7-8373-feff095e524f",
+   "id": "f24008ee-d690-4342-bdc3-2da1cb15c367",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -726,7 +726,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -737,10 +737,10 @@
    },
    "children": [
     {
-     "id": "8ab76bc3-5f5a-4b0a-8a76-7bad99c6b01f",
+     "id": "3960505c-58e1-44ec-baf9-116dbadc97c3",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T08:10:22.1396578+08:00",
+      "Date": "2024-08-05T10:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 11,
       "Wagon": 11,
@@ -748,7 +748,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T08:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T10:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -765,7 +765,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "83071295-9753-46e3-bd8b-4a98e6f7fd3c",
+   "id": "31fceed7-88f5-4bec-8f69-447297f3cc51",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -776,7 +776,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -787,10 +787,10 @@
    },
    "children": [
     {
-     "id": "c765b5f0-9696-47b9-a922-0f2fb18d868b",
+     "id": "45e106e7-f1ff-4715-af4e-dd15e1b14ed2",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T09:10:22.1396578+08:00",
+      "Date": "2024-08-05T11:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 12,
       "Wagon": 11,
@@ -798,7 +798,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T09:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T11:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -811,10 +811,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "4aec9b0b-2a26-486a-b5ee-3adcfcf9bf60",
+     "id": "b5ef8c5b-e578-4267-a0fe-2c26ad0a48d3",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T09:10:22.1396578+08:00",
+      "Date": "2024-08-05T11:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 12,
       "Wagon": 11,
@@ -822,7 +822,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T09:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T11:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -839,7 +839,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "1422bad9-8f55-42f7-ac69-c3369c691043",
+   "id": "ab2026bc-3c88-40c8-ac2f-efecc811a3ce",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -850,7 +850,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -861,10 +861,10 @@
    },
    "children": [
     {
-     "id": "00d8cb74-c87e-427a-9ce8-0fdc0705c11c",
+     "id": "72661341-449c-40b3-80e2-61bbea9c610d",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T10:10:22.1396578+08:00",
+      "Date": "2024-08-05T12:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 13,
       "Wagon": 11,
@@ -872,7 +872,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T10:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T12:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -889,7 +889,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "18a7584b-4526-4a10-80fe-e602c807915d",
+   "id": "22d08a68-7256-4699-a614-32b8717661df",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -900,7 +900,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -911,10 +911,10 @@
    },
    "children": [
     {
-     "id": "0b20d9e9-c299-4e33-be2c-a12c6bfdbd26",
+     "id": "7a66cb39-5be6-4202-bcb2-96ddcb552a1b",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T11:10:22.1396578+08:00",
+      "Date": "2024-08-05T13:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 14,
       "Wagon": 11,
@@ -922,7 +922,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T11:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T13:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -935,10 +935,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "c2b77d83-ab3f-4fa9-a339-ecb3b9ffcb6f",
+     "id": "8f05854c-883c-4759-b558-aef59ed152aa",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T11:10:22.1396578+08:00",
+      "Date": "2024-08-05T13:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 14,
       "Wagon": 11,
@@ -946,7 +946,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T11:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T13:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -963,7 +963,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "e0374674-1632-4231-9ac6-79e66aaa7c7b",
+   "id": "613cc4f2-8a5e-4ae0-8dab-2cb480943725",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -974,7 +974,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -985,10 +985,10 @@
    },
    "children": [
     {
-     "id": "37dc0b49-bd77-4437-bad8-931e4e48e174",
+     "id": "2da5a0ad-98d1-4009-9f63-7ffc963e4eaf",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T12:10:22.1396578+08:00",
+      "Date": "2024-08-05T14:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 15,
       "Wagon": 11,
@@ -996,7 +996,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T12:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T14:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1013,7 +1013,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "5dcd6235-b8d6-4cb6-86b7-28ddb50e1da9",
+   "id": "c4151bde-1bd9-41c9-9d0b-2c9f97f638ce",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1024,7 +1024,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -1035,10 +1035,10 @@
    },
    "children": [
     {
-     "id": "c92743fe-3de6-48bd-970c-665b5e166331",
+     "id": "549f94ba-030a-4470-99fc-604f988aa4ca",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T13:10:22.1396578+08:00",
+      "Date": "2024-08-05T15:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 16,
       "Wagon": 11,
@@ -1046,7 +1046,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T13:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T15:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1059,10 +1059,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "b0a2c15a-34bb-4015-b242-e0ee10504fc8",
+     "id": "b2cb254d-d40f-4063-91aa-be2f8030d704",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T13:10:22.1396578+08:00",
+      "Date": "2024-08-05T15:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 16,
       "Wagon": 11,
@@ -1070,7 +1070,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T13:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T15:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1087,7 +1087,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "b77ac3cb-8973-455d-a27c-8567a6421384",
+   "id": "4c0c6698-931d-4819-a43f-8f0e7b77b3b7",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1098,7 +1098,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -1109,10 +1109,10 @@
    },
    "children": [
     {
-     "id": "22fb0d23-b478-47d7-8668-4f383d1d549a",
+     "id": "bf929fc6-974a-4564-bb90-0f48082137a2",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T14:10:22.1396578+08:00",
+      "Date": "2024-08-05T16:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 17,
       "Wagon": 11,
@@ -1120,7 +1120,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T14:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T16:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1137,7 +1137,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "55112d7b-a13c-4493-88d1-8e43a1a1bed8",
+   "id": "8585ea94-7401-48d1-b18a-028a1b2b0a5a",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1148,7 +1148,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -1159,10 +1159,10 @@
    },
    "children": [
     {
-     "id": "c6452a79-c966-4f44-913b-b327f5e1684c",
+     "id": "7ae1d290-c919-4d88-887f-a5405a09b978",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T15:10:22.1396578+08:00",
+      "Date": "2024-08-05T17:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 18,
       "Wagon": 11,
@@ -1170,7 +1170,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T15:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T17:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1183,10 +1183,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "3633ad93-8472-4fd9-8d0a-3e30151c95f8",
+     "id": "a3a7fa16-82e6-4de9-80a6-d1a4bfb4969e",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T15:10:22.1396578+08:00",
+      "Date": "2024-08-05T17:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 18,
       "Wagon": 11,
@@ -1194,7 +1194,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T15:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T17:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1211,7 +1211,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "9e03b3db-f4c6-46a3-b065-210accc4b45a",
+   "id": "d743de75-f8a7-425c-90e9-f0c6aee3c621",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1222,7 +1222,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -1233,10 +1233,10 @@
    },
    "children": [
     {
-     "id": "a5b6adb8-d6a2-44d0-bdc4-28fefef46abc",
+     "id": "ca1fa303-416c-451a-b403-74c17e5504d0",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T16:10:22.1396578+08:00",
+      "Date": "2024-08-05T18:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 19,
       "Wagon": 11,
@@ -1244,7 +1244,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T16:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T18:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1261,7 +1261,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "2283e03b-ced7-4244-9dc5-4ade087a81a8",
+   "id": "593929f9-1f1e-434c-95f5-dd0203d0c480",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1272,7 +1272,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -1283,10 +1283,10 @@
    },
    "children": [
     {
-     "id": "fedccc29-1c95-42a5-a909-2b94fbcdc7b5",
+     "id": "cd54c407-70e4-44cf-b2be-b8e88dd8f483",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T17:10:22.1396578+08:00",
+      "Date": "2024-08-05T19:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 20,
       "Wagon": 11,
@@ -1294,7 +1294,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T17:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T19:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1307,10 +1307,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "bff79989-a1fa-4b67-9158-01633313941e",
+     "id": "1d50d609-6ae8-4685-9a24-ddee3076f807",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T17:10:22.1396578+08:00",
+      "Date": "2024-08-05T19:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 20,
       "Wagon": 11,
@@ -1318,7 +1318,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T17:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T19:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1335,7 +1335,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "4e2439ea-06a9-43d5-a61a-2fcce810e621",
+   "id": "4bc1970c-7302-4ae2-9560-f40438b95a82",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1346,7 +1346,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -1357,10 +1357,10 @@
    },
    "children": [
     {
-     "id": "7e817a48-ff13-4838-b91c-32f4de63b956",
+     "id": "afcad477-3144-4506-bf76-67a50208af2f",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T18:10:22.1396578+08:00",
+      "Date": "2024-08-05T20:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 21,
       "Wagon": 11,
@@ -1368,7 +1368,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T18:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T20:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1385,7 +1385,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "a11bd636-7fda-492e-871a-e3c2f6809480",
+   "id": "bb981012-94db-4059-8e02-6565c0aef6ef",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1396,7 +1396,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -1407,10 +1407,10 @@
    },
    "children": [
     {
-     "id": "75283f9f-a461-493a-8841-c4b73453778c",
+     "id": "805e4eb3-cfbe-4ec2-ba7a-4fcfeb747cb6",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T19:10:22.1396578+08:00",
+      "Date": "2024-08-05T21:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 22,
       "Wagon": 11,
@@ -1418,7 +1418,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T19:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T21:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1431,10 +1431,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "8fc8ff32-b642-41e1-ae45-a3c639e1d004",
+     "id": "b426fdb7-9451-48a5-b92f-d03d74a24056",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T19:10:22.1396578+08:00",
+      "Date": "2024-08-05T21:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 22,
       "Wagon": 11,
@@ -1442,7 +1442,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T19:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T21:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1459,7 +1459,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "6b60aa61-0e0e-4f1b-9310-a3a06431a95a",
+   "id": "b869a7ea-b7cc-4805-b22b-aa2b7d98bd85",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1470,7 +1470,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -1481,10 +1481,10 @@
    },
    "children": [
     {
-     "id": "944d3d81-a5a4-4c3a-a876-c910a3ea9451",
+     "id": "b689ed74-4734-4235-abbd-00d43887192e",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T20:10:22.1396578+08:00",
+      "Date": "2024-08-05T22:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 23,
       "Wagon": 11,
@@ -1492,7 +1492,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T20:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T22:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1509,7 +1509,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "a3857994-c7bc-4018-89ba-4eea796833d6",
+   "id": "074336d5-900e-42fd-9316-529d12865e75",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1520,7 +1520,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -1531,10 +1531,10 @@
    },
    "children": [
     {
-     "id": "648f994c-4542-486e-be46-8c54acaf3c8e",
+     "id": "699fe041-ccf9-445c-8a54-ee1b243c9f10",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T21:10:22.1396578+08:00",
+      "Date": "2024-08-05T23:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 24,
       "Wagon": 11,
@@ -1542,7 +1542,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T21:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T23:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1555,10 +1555,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "47f3e384-670c-427d-9617-dedf8e79f9cf",
+     "id": "c7a83e97-e487-4a2c-8c10-cdadb7d7892f",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T21:10:22.1396578+08:00",
+      "Date": "2024-08-05T23:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 24,
       "Wagon": 11,
@@ -1566,7 +1566,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T21:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-05T23:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1583,7 +1583,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "f223a745-bafd-49eb-a730-37abe71c7489",
+   "id": "07dac0a2-7c3a-4d97-999a-8a44460b3115",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1594,7 +1594,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -1605,10 +1605,10 @@
    },
    "children": [
     {
-     "id": "10bb3399-3370-4245-9e63-13ecaed947fc",
+     "id": "c3030ed8-a238-4df6-b16a-6d3fca39da62",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T22:10:22.1396578+08:00",
+      "Date": "2024-08-06T00:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 25,
       "Wagon": 11,
@@ -1616,7 +1616,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T22:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T00:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1633,7 +1633,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "635201c9-011f-4831-a23c-73afe88a8bcd",
+   "id": "aeaaa335-8bd9-48c8-8417-50aacf124515",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1644,7 +1644,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -1655,10 +1655,10 @@
    },
    "children": [
     {
-     "id": "30dea760-7f73-49fd-8e0f-67f9544884d4",
+     "id": "9a455767-5d3a-43b3-a339-ec54cedde5f4",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T23:10:22.1396578+08:00",
+      "Date": "2024-08-06T01:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 26,
       "Wagon": 11,
@@ -1666,7 +1666,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-05T23:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T01:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1679,10 +1679,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "ce293064-5533-4196-9570-c630bfeb489f",
+     "id": "b5f0ba7c-8713-403e-ad4b-c45eff7deebf",
      "type": "",
      "Data": {
-      "Date": "2024-08-05T23:10:22.1396578+08:00",
+      "Date": "2024-08-06T01:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 26,
       "Wagon": 11,
@@ -1690,7 +1690,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-05T23:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T01:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1707,7 +1707,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "6a91d26b-2125-404b-9218-d08bcf9b78ae",
+   "id": "6951d5de-5cd6-428e-83bd-35b28b0e9138",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1718,7 +1718,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -1729,10 +1729,10 @@
    },
    "children": [
     {
-     "id": "d9d078d6-2064-4606-9b76-93c4bcc6637e",
+     "id": "423044d9-56d3-42db-b299-0d7ad5aa364d",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T00:10:22.1396578+08:00",
+      "Date": "2024-08-06T02:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 27,
       "Wagon": 11,
@@ -1740,7 +1740,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T00:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T02:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1757,7 +1757,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "32f52c82-0c32-4422-93bb-5a90839caced",
+   "id": "a386bef8-cbac-4d18-a724-ea997ac58d7d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1768,7 +1768,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -1779,10 +1779,10 @@
    },
    "children": [
     {
-     "id": "3747ed3e-73b3-4be3-8bb3-b63e6a272177",
+     "id": "e4810f85-6780-4098-b683-f52d664b619f",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T01:10:22.1396578+08:00",
+      "Date": "2024-08-06T03:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 28,
       "Wagon": 11,
@@ -1790,7 +1790,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T01:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T03:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1803,10 +1803,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "9ccda541-0190-40af-b21a-88f8af6fc9b9",
+     "id": "74d1ea09-9021-402d-bb41-6e4c70bceb6b",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T01:10:22.1396578+08:00",
+      "Date": "2024-08-06T03:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 28,
       "Wagon": 11,
@@ -1814,7 +1814,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T01:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T03:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1831,7 +1831,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "346b4d20-3422-41fd-997a-668cf655d752",
+   "id": "6fe8c4cf-965a-43c3-a619-6339a1ce030f",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1842,7 +1842,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -1853,10 +1853,10 @@
    },
    "children": [
     {
-     "id": "76fedabd-85a5-4360-8c8d-005f82681f29",
+     "id": "ee8c877f-53d6-4529-9718-827f49b8d6ad",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T02:10:22.1396578+08:00",
+      "Date": "2024-08-06T04:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 29,
       "Wagon": 11,
@@ -1864,7 +1864,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T02:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T04:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1881,7 +1881,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "9279c200-82ea-45ba-bf50-7261a3c04972",
+   "id": "56f2ff9c-e67c-411f-be7e-5c9e7f7807b3",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1892,7 +1892,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -1903,10 +1903,10 @@
    },
    "children": [
     {
-     "id": "a620a4d7-ab16-4e44-b09a-bf4e16dea03f",
+     "id": "31fa2fe7-781e-4907-8d47-cf158b4a6431",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T03:10:22.1396578+08:00",
+      "Date": "2024-08-06T05:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 30,
       "Wagon": 11,
@@ -1914,7 +1914,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T03:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T05:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1927,10 +1927,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "ee11e448-4678-48b9-8afc-b7dc6a84e8a0",
+     "id": "b684e0ad-3dfa-4ebb-b7ec-fb6e2d038a63",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T03:10:22.1396578+08:00",
+      "Date": "2024-08-06T05:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 30,
       "Wagon": 11,
@@ -1938,7 +1938,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T03:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T05:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -1955,7 +1955,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "6cc43fdd-dc54-4234-982a-47facab43f66",
+   "id": "ae0b746b-ecae-4a87-ad07-e2a4a1adf43d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -1966,7 +1966,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -1977,10 +1977,10 @@
    },
    "children": [
     {
-     "id": "798c8e1a-bcb8-4895-8d25-66e32affce3c",
+     "id": "8ab432d8-effa-429f-8d46-8c9a71615da0",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T04:10:22.1396578+08:00",
+      "Date": "2024-08-06T06:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 31,
       "Wagon": 11,
@@ -1988,7 +1988,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T04:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T06:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2005,7 +2005,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "12a80fa9-7dd6-412c-8027-39eaf467970f",
+   "id": "ef1b5ac0-5086-4254-b1dc-d2ae11a8014b",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2016,7 +2016,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -2027,10 +2027,10 @@
    },
    "children": [
     {
-     "id": "fda62939-e3b8-43d8-bc89-8fb6868b48fd",
+     "id": "7da01a2c-f24a-4e43-87bd-d6dec9926918",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T05:10:22.1396578+08:00",
+      "Date": "2024-08-06T07:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 32,
       "Wagon": 11,
@@ -2038,7 +2038,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T05:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T07:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2051,10 +2051,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "608883e4-22e5-4ebd-8d2d-c442f0fbd312",
+     "id": "676bbecf-a251-434e-944f-c64aad62288f",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T05:10:22.1396578+08:00",
+      "Date": "2024-08-06T07:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 32,
       "Wagon": 11,
@@ -2062,7 +2062,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T05:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T07:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2079,7 +2079,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "1295f1c5-0c2f-4581-b801-0ee233b61fd2",
+   "id": "d2c2842c-45a4-4d88-91b5-af262f601f80",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2090,7 +2090,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -2101,10 +2101,10 @@
    },
    "children": [
     {
-     "id": "fbe44d32-604c-4aeb-ba8e-0df291879dd1",
+     "id": "1d676c1d-9f0a-4288-8e8a-1ca765ffa782",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T06:10:22.1396578+08:00",
+      "Date": "2024-08-06T08:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 33,
       "Wagon": 11,
@@ -2112,7 +2112,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T06:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T08:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2129,7 +2129,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "0d57b1fe-1c2c-42f1-8e5f-1a4bf097bbc7",
+   "id": "34dc488e-93ba-4801-8979-4f6cdb4d857b",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2140,7 +2140,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -2151,10 +2151,10 @@
    },
    "children": [
     {
-     "id": "65b9715c-ae0a-47fd-9a5a-f41e41bf8e5b",
+     "id": "9399d8a5-ce84-4258-a5a8-cb665adf145d",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T07:10:22.1396578+08:00",
+      "Date": "2024-08-06T09:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 34,
       "Wagon": 11,
@@ -2162,7 +2162,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T07:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T09:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2175,10 +2175,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "fe4e6cd8-888f-4a24-ad44-805d87ea2e0b",
+     "id": "8aad8259-8c8d-41f3-a300-65b9eff71191",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T07:10:22.1396578+08:00",
+      "Date": "2024-08-06T09:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 34,
       "Wagon": 11,
@@ -2186,7 +2186,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T07:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T09:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2203,7 +2203,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "ec0b94f9-f996-4a11-b7f0-4a43eebc41fc",
+   "id": "c38c36c1-9f9c-44d2-816b-13e08549f07a",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2214,7 +2214,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -2225,10 +2225,10 @@
    },
    "children": [
     {
-     "id": "54fa6b34-e589-4035-9648-b6759b5e51fc",
+     "id": "338b74c1-5d5d-4f1d-8657-851316ff3a47",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T08:10:22.1396578+08:00",
+      "Date": "2024-08-06T10:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 35,
       "Wagon": 11,
@@ -2236,7 +2236,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T08:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T10:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2253,7 +2253,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "6d44e632-ef24-4531-a3bc-7626ce08882d",
+   "id": "79754c5c-b85b-4dc8-8529-9a284ec4cd9f",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2264,7 +2264,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -2275,10 +2275,10 @@
    },
    "children": [
     {
-     "id": "876837d1-9ffe-4958-80ab-9b8aed15a324",
+     "id": "d3fb9e1a-1667-4591-b0d8-efdbda4931c5",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T09:10:22.1396578+08:00",
+      "Date": "2024-08-06T11:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 36,
       "Wagon": 11,
@@ -2286,7 +2286,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T09:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T11:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2299,10 +2299,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "59cd6879-456b-4c6c-9b9e-592d5667f7bd",
+     "id": "392a9477-1840-41bd-a499-36fd9e3cd0ad",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T09:10:22.1396578+08:00",
+      "Date": "2024-08-06T11:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 36,
       "Wagon": 11,
@@ -2310,7 +2310,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T09:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T11:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2327,7 +2327,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "3a67fe92-78a9-4ba2-b2f4-18fca22b273a",
+   "id": "a8269a5f-a4b2-4de4-80aa-e34f556cb901",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2338,7 +2338,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -2349,10 +2349,10 @@
    },
    "children": [
     {
-     "id": "82176013-532c-4629-bfac-3125ef1fa75d",
+     "id": "a2a9058d-0da1-4762-b262-d93375095a9e",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T10:10:22.1396578+08:00",
+      "Date": "2024-08-06T12:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 37,
       "Wagon": 11,
@@ -2360,7 +2360,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T10:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T12:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2377,7 +2377,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "3f5dec5c-351f-4df5-bd78-8bd3e10468ed",
+   "id": "716888b4-79ea-45ac-9574-870ca6dd4e7d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2388,7 +2388,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -2399,10 +2399,10 @@
    },
    "children": [
     {
-     "id": "7abd5ead-6f51-450c-a533-27602dc1e70d",
+     "id": "1efe999d-2eea-495d-b2de-702ca689196e",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T11:10:22.1396578+08:00",
+      "Date": "2024-08-06T13:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 38,
       "Wagon": 11,
@@ -2410,7 +2410,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T11:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T13:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2423,10 +2423,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "4187515c-7ae1-4f62-82b8-dcf1d39a30f9",
+     "id": "e8fca058-5068-49ac-890c-12de602c113a",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T11:10:22.1396578+08:00",
+      "Date": "2024-08-06T13:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 38,
       "Wagon": 11,
@@ -2434,7 +2434,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T11:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T13:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2451,7 +2451,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "35a5cc12-f9ad-4da6-8574-0abac09de349",
+   "id": "ffa3933e-52b1-4592-b9f8-0be588c53e5d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2462,7 +2462,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -2473,10 +2473,10 @@
    },
    "children": [
     {
-     "id": "a63416ee-7274-4a50-be7f-5d90830f1344",
+     "id": "d6bc732f-c6b1-4bc7-a9d8-b70ee905c5d0",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T12:10:22.1396578+08:00",
+      "Date": "2024-08-06T14:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 39,
       "Wagon": 11,
@@ -2484,7 +2484,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T12:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T14:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2501,7 +2501,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "f8128e6a-fc49-4e15-b8b2-134ad21c4b1d",
+   "id": "69f252be-b1ec-4871-9e9a-018ca52eeb79",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2512,7 +2512,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -2523,10 +2523,10 @@
    },
    "children": [
     {
-     "id": "8be5ef91-4260-4322-b2ab-c728fced8054",
+     "id": "020994f6-5dd2-46d6-a6b6-0536f9f502fa",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T13:10:22.1396578+08:00",
+      "Date": "2024-08-06T15:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 40,
       "Wagon": 11,
@@ -2534,7 +2534,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T13:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T15:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2547,10 +2547,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "ad716026-01f8-443f-9e69-4ac20f4e5d4d",
+     "id": "5c9b99a9-73a3-4579-b990-f7722f9c0114",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T13:10:22.1396578+08:00",
+      "Date": "2024-08-06T15:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 40,
       "Wagon": 11,
@@ -2558,7 +2558,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T13:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T15:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2575,7 +2575,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "0609ff6b-2c7f-4f68-b84a-413b2f73e141",
+   "id": "9adcfe01-13de-4d75-b76e-ba2034f08eba",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2586,7 +2586,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -2597,10 +2597,10 @@
    },
    "children": [
     {
-     "id": "5861ca79-92c5-4a29-b514-9c2263bc9e2e",
+     "id": "10792c87-8b04-4afe-b8c6-d215fde55b42",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T14:10:22.1396578+08:00",
+      "Date": "2024-08-06T16:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 41,
       "Wagon": 11,
@@ -2608,7 +2608,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T14:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T16:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2625,7 +2625,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "76c127cb-8c20-4632-9c0a-ff73d8c5dbd5",
+   "id": "8850cfd3-1b9c-49ff-b9b3-6bf7bcf62d91",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2636,7 +2636,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -2647,10 +2647,10 @@
    },
    "children": [
     {
-     "id": "0704fd2f-705b-4bfc-b55a-2271a1f179e5",
+     "id": "06094884-af08-4830-85aa-17b02ea28266",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T15:10:22.1396578+08:00",
+      "Date": "2024-08-06T17:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 42,
       "Wagon": 11,
@@ -2658,7 +2658,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T15:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T17:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2671,10 +2671,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "9e34fb8a-9d63-44ef-8f1d-42f1f05d0171",
+     "id": "956d3e17-4f85-42e1-9664-3955fa7d69dc",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T15:10:22.1396578+08:00",
+      "Date": "2024-08-06T17:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 42,
       "Wagon": 11,
@@ -2682,7 +2682,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T15:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T17:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2699,7 +2699,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "704fb016-10a2-40b8-9f75-c604cd88c70e",
+   "id": "d04631ff-9501-455e-a216-88a25e36ceb5",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2710,7 +2710,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -2721,10 +2721,10 @@
    },
    "children": [
     {
-     "id": "1d00ce2d-5f97-40d0-8d10-bff13f6b5e68",
+     "id": "9241cb38-44cb-44c3-bf5d-d34c1f3ca964",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T16:10:22.1396578+08:00",
+      "Date": "2024-08-06T18:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 43,
       "Wagon": 11,
@@ -2732,7 +2732,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T16:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T18:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2749,7 +2749,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "787b57bd-5f27-4cb1-b304-e897ae5bc707",
+   "id": "1b2fa712-1d28-4994-a063-81330a30e5b7",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2760,7 +2760,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -2771,10 +2771,10 @@
    },
    "children": [
     {
-     "id": "d0a8f7e7-8d3d-4234-a311-60329a379135",
+     "id": "98aa0788-0a59-444e-b37b-57ed1f1ae147",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T17:10:22.1396578+08:00",
+      "Date": "2024-08-06T19:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 44,
       "Wagon": 11,
@@ -2782,7 +2782,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T17:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T19:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2795,10 +2795,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "f8647090-5aa7-4836-a6df-53184c1b1057",
+     "id": "fba28ab2-c76f-4169-b36a-6eed82529ca0",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T17:10:22.1396578+08:00",
+      "Date": "2024-08-06T19:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 44,
       "Wagon": 11,
@@ -2806,7 +2806,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T17:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T19:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2823,7 +2823,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "85a7a7e9-2ff7-4a41-bdbe-54d852a396ba",
+   "id": "16a482d6-5bd8-422d-98ff-b4075a20d6d4",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2834,7 +2834,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -2845,10 +2845,10 @@
    },
    "children": [
     {
-     "id": "1aaba712-96c8-4823-a103-6f04973102fe",
+     "id": "6a06cdfa-7951-448d-8759-90d0d464f8ea",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T18:10:22.1396578+08:00",
+      "Date": "2024-08-06T20:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 45,
       "Wagon": 11,
@@ -2856,7 +2856,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T18:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T20:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2873,7 +2873,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "7e2adf2c-695e-44f2-878f-a96186bee0a9",
+   "id": "0824e4b0-eb8e-4786-97a3-635bd5062067",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2884,7 +2884,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -2895,10 +2895,10 @@
    },
    "children": [
     {
-     "id": "616db26f-c937-4a33-9cc6-cf4c3223d7c9",
+     "id": "5c9953c3-5cc5-4c4a-aa16-a28d5da49b15",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T19:10:22.1396578+08:00",
+      "Date": "2024-08-06T21:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 46,
       "Wagon": 11,
@@ -2906,7 +2906,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T19:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T21:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2919,10 +2919,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "7bfd9407-df2d-4619-ab96-d0f7d77957c8",
+     "id": "70470a25-9159-4eb8-8945-c0c44bb3e82d",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T19:10:22.1396578+08:00",
+      "Date": "2024-08-06T21:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 46,
       "Wagon": 11,
@@ -2930,7 +2930,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T19:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T21:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2947,7 +2947,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "49424c44-bad4-4168-b0a5-4c820d53672a",
+   "id": "06093021-41fd-40fb-a17a-1aae2a1b49d0",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -2958,7 +2958,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -2969,10 +2969,10 @@
    },
    "children": [
     {
-     "id": "ed080db0-a004-411a-ab77-2ddc37c8d58e",
+     "id": "9ce6e0dd-16d1-43a3-8f55-0aefd3067a11",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T20:10:22.1396578+08:00",
+      "Date": "2024-08-06T22:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 47,
       "Wagon": 11,
@@ -2980,7 +2980,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T20:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T22:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -2997,7 +2997,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "e43edcea-6352-42a9-a70c-93001563847c",
+   "id": "9f65ae5e-4c5e-4880-bcae-6ef51276c777",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3008,7 +3008,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -3019,10 +3019,10 @@
    },
    "children": [
     {
-     "id": "36ab5f6d-e7ea-4e92-88a5-b6d831f46bbd",
+     "id": "280857fe-042e-4a1e-81dd-da744c75e51e",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T21:10:22.1396578+08:00",
+      "Date": "2024-08-06T23:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 48,
       "Wagon": 11,
@@ -3030,7 +3030,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T21:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T23:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3043,10 +3043,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "f788fc20-9d22-4b49-b09c-67f94ed5a0b3",
+     "id": "1966d297-9766-4762-851e-ade1cdc28350",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T21:10:22.1396578+08:00",
+      "Date": "2024-08-06T23:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 48,
       "Wagon": 11,
@@ -3054,7 +3054,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T21:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-06T23:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3071,7 +3071,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "924cac88-844e-44ff-b584-f451e1f8d997",
+   "id": "d3c69445-18d5-4124-9689-431db557df65",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3082,7 +3082,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -3093,10 +3093,10 @@
    },
    "children": [
     {
-     "id": "2d4b190a-c3a9-4321-9db6-bd73c7a0a275",
+     "id": "727fc853-6d91-45f1-8452-9e108c62a10f",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T22:10:22.1396578+08:00",
+      "Date": "2024-08-07T00:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 49,
       "Wagon": 11,
@@ -3104,7 +3104,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T22:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T00:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3121,7 +3121,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "d40545da-bfe3-46ca-a60c-2e29be6dc97a",
+   "id": "e47a69c2-ab88-46cc-b46f-78293730f606",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3132,7 +3132,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -3143,10 +3143,10 @@
    },
    "children": [
     {
-     "id": "64417706-3b2e-475f-9235-164ec5de15eb",
+     "id": "02eb9757-e34b-40c5-a5cc-f6b61c4744ea",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T23:10:22.1396578+08:00",
+      "Date": "2024-08-07T01:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 50,
       "Wagon": 11,
@@ -3154,7 +3154,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-06T23:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T01:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3167,10 +3167,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "553d0305-5ad3-4e5c-888c-9a52b93787a6",
+     "id": "d26892ea-76b7-452e-b905-1f946641d20c",
      "type": "",
      "Data": {
-      "Date": "2024-08-06T23:10:22.1396578+08:00",
+      "Date": "2024-08-07T01:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 50,
       "Wagon": 11,
@@ -3178,7 +3178,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-06T23:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T01:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3195,7 +3195,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "57ccd746-9cba-48e4-9aaa-91d39718e4de",
+   "id": "ce0a9c05-0f20-450d-a72e-1b965a559b63",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3206,7 +3206,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -3217,10 +3217,10 @@
    },
    "children": [
     {
-     "id": "d92c8c67-8ef4-40b8-a9a0-6134232b7cab",
+     "id": "65106766-1d4c-4f22-bb0a-9629c5548200",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T00:10:22.1396578+08:00",
+      "Date": "2024-08-07T02:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 51,
       "Wagon": 11,
@@ -3228,7 +3228,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T00:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T02:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3245,7 +3245,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "97d500ee-eeb7-46f6-8fbd-6a656d1e0dc1",
+   "id": "13de90d0-2986-49ad-99b3-54539ab7b613",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3256,7 +3256,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -3267,10 +3267,10 @@
    },
    "children": [
     {
-     "id": "9d42c37a-a95d-4c4a-821e-5b888281e34f",
+     "id": "a4529feb-4850-431a-861f-327c2242acf0",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T01:10:22.1396578+08:00",
+      "Date": "2024-08-07T03:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 52,
       "Wagon": 11,
@@ -3278,7 +3278,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T01:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T03:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3291,10 +3291,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "d2a2c53e-affa-44fd-9e3b-17a0c2133d57",
+     "id": "0ec38e73-c1b5-4a35-ab85-ee8a90c25d8c",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T01:10:22.1396578+08:00",
+      "Date": "2024-08-07T03:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 52,
       "Wagon": 11,
@@ -3302,7 +3302,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T01:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T03:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3319,7 +3319,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "8d39da2b-83f4-4b1e-94f9-a2a0b5f7242c",
+   "id": "d73cd34a-6c1f-4425-8d34-4b79c86d6c75",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3330,7 +3330,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -3341,10 +3341,10 @@
    },
    "children": [
     {
-     "id": "92c07479-ee63-4176-8db4-cf6da680ac18",
+     "id": "5d4bafd3-ad41-46e8-8a41-12abb77b254f",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T02:10:22.1396578+08:00",
+      "Date": "2024-08-07T04:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 53,
       "Wagon": 11,
@@ -3352,7 +3352,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T02:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T04:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3369,7 +3369,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "8497dc4c-f3d9-4a4f-a36b-00da37d2ed3c",
+   "id": "6da6c135-f25d-49af-bf66-a3bdbd7db6f0",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3380,7 +3380,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -3391,10 +3391,10 @@
    },
    "children": [
     {
-     "id": "9d129a54-7ecb-4060-9b49-5843adc80c90",
+     "id": "79057684-89a5-4cdb-8d44-f27c79610a81",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T03:10:22.1396578+08:00",
+      "Date": "2024-08-07T05:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 54,
       "Wagon": 11,
@@ -3402,7 +3402,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T03:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T05:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3415,10 +3415,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "24a4bd53-5067-4e59-a47c-25598c0dfbbd",
+     "id": "d561ffc8-6246-412d-bdfb-3062bf530110",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T03:10:22.1396578+08:00",
+      "Date": "2024-08-07T05:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 54,
       "Wagon": 11,
@@ -3426,7 +3426,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T03:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T05:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3443,7 +3443,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "5b5dd608-e856-44c7-bfd3-9118d2983233",
+   "id": "eb7257c7-d201-45f4-a174-44ec407130fc",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3454,7 +3454,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -3465,10 +3465,10 @@
    },
    "children": [
     {
-     "id": "801f230c-4758-44db-a4eb-d0d5551cb486",
+     "id": "ddb1b672-4a3b-46ac-ac33-a87c8a264adc",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T04:10:22.1396578+08:00",
+      "Date": "2024-08-07T06:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 55,
       "Wagon": 11,
@@ -3476,7 +3476,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T04:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T06:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3493,7 +3493,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "96d43ebb-2751-4c9b-a279-9002a44caf06",
+   "id": "7bee3bf1-0093-49e9-83b0-5cbf57a9c477",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3504,7 +3504,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -3515,10 +3515,10 @@
    },
    "children": [
     {
-     "id": "9a52fce2-a6da-42c7-9e78-b39de35473d7",
+     "id": "e6ef2388-6bef-484c-8ffc-3dec384d3534",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T05:10:22.1396578+08:00",
+      "Date": "2024-08-07T07:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 56,
       "Wagon": 11,
@@ -3526,7 +3526,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T05:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T07:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3539,10 +3539,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "b2dc9d8f-1a5b-4d04-9311-e31783447a7c",
+     "id": "6b841000-aed3-4f62-b7a0-3c074c4b379a",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T05:10:22.1396578+08:00",
+      "Date": "2024-08-07T07:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 56,
       "Wagon": 11,
@@ -3550,7 +3550,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T05:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T07:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3567,7 +3567,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "f58c4bb4-9940-4369-ba55-b3985bffd2a9",
+   "id": "fd3d0fcf-1d31-42d2-9f61-7186163ff87d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3578,7 +3578,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -3589,10 +3589,10 @@
    },
    "children": [
     {
-     "id": "548abbc1-80c2-43f2-adbf-d2784c769292",
+     "id": "dae0e364-ed87-44f0-a76b-13a4188a5012",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T06:10:22.1396578+08:00",
+      "Date": "2024-08-07T08:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 57,
       "Wagon": 11,
@@ -3600,7 +3600,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T06:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T08:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3617,7 +3617,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "1456fda2-0c8a-4731-b728-eed587a6b019",
+   "id": "a973fee8-02f3-496f-ae46-dec668a89e9c",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3628,7 +3628,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -3639,10 +3639,10 @@
    },
    "children": [
     {
-     "id": "418cecc1-12a7-4218-b380-b15e4e4013ae",
+     "id": "78fb51e8-8be4-467d-b28b-fd5ee19c38c9",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T07:10:22.1396578+08:00",
+      "Date": "2024-08-07T09:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 58,
       "Wagon": 11,
@@ -3650,7 +3650,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T07:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T09:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3663,10 +3663,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "24d26562-ad22-4161-b795-3232b365d3ac",
+     "id": "ed8d614d-7b2f-48e0-b59a-a015b88e7625",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T07:10:22.1396578+08:00",
+      "Date": "2024-08-07T09:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 58,
       "Wagon": 11,
@@ -3674,7 +3674,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T07:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T09:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3691,7 +3691,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "c193e817-1aea-4160-b03c-31e4b4dcc20f",
+   "id": "92dd56cd-7370-4ffd-ba70-e3930b1afc1d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3702,7 +3702,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -3713,10 +3713,10 @@
    },
    "children": [
     {
-     "id": "f0e40f3a-523e-4f15-a6e3-1a1809efa419",
+     "id": "f26a56ed-ba40-4c26-a508-7dc315476551",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T08:10:22.1396578+08:00",
+      "Date": "2024-08-07T10:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 59,
       "Wagon": 11,
@@ -3724,7 +3724,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T08:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T10:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3741,7 +3741,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "7cce2063-f510-48f4-a489-97affc883b7b",
+   "id": "39a5f881-f851-4fcc-a951-5a94047cd28c",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3752,7 +3752,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -3763,10 +3763,10 @@
    },
    "children": [
     {
-     "id": "8c77524c-950e-4cc3-b7ca-bdf4f80c3fe5",
+     "id": "50a14653-acca-4345-96f8-9add16f44b25",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T09:10:22.1396578+08:00",
+      "Date": "2024-08-07T11:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 60,
       "Wagon": 11,
@@ -3774,7 +3774,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T09:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T11:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3787,10 +3787,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "cce0574b-c983-4dcf-8890-37bde4ecba1d",
+     "id": "287bdf46-56ac-4e64-a299-101cfaa7e939",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T09:10:22.1396578+08:00",
+      "Date": "2024-08-07T11:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 60,
       "Wagon": 11,
@@ -3798,7 +3798,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T09:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T11:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3815,7 +3815,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "37402370-24bd-41c1-bda6-cc19bfcd00e6",
+   "id": "955c6aa7-f1a4-4270-8f85-4116337951e5",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3826,7 +3826,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -3837,10 +3837,10 @@
    },
    "children": [
     {
-     "id": "351a6531-f669-4d13-aab4-ba247f1c76ec",
+     "id": "86ada9bb-9a4a-4744-9d8b-eb47c11cae1c",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T10:10:22.1396578+08:00",
+      "Date": "2024-08-07T12:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 61,
       "Wagon": 11,
@@ -3848,7 +3848,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T10:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T12:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3865,7 +3865,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "36a9481b-3b04-4f5f-904f-7493facbc665",
+   "id": "bce7870a-87e1-4095-8318-e6970ccc6396",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3876,7 +3876,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -3887,10 +3887,10 @@
    },
    "children": [
     {
-     "id": "49ce194c-fcf9-4bb2-bd7f-d770a864a93a",
+     "id": "e5fa16b8-98b6-42fc-915c-66a75a3807a9",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T11:10:22.1396578+08:00",
+      "Date": "2024-08-07T13:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 62,
       "Wagon": 11,
@@ -3898,7 +3898,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T11:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T13:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3911,10 +3911,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "a23757cb-e2b8-4bd6-a096-eedb0369e01d",
+     "id": "1221a548-bc94-4850-9098-12572082e996",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T11:10:22.1396578+08:00",
+      "Date": "2024-08-07T13:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 62,
       "Wagon": 11,
@@ -3922,7 +3922,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T11:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T13:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3939,7 +3939,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "300f6828-1763-4eb1-9e99-f7866e87f9e8",
+   "id": "d6e62627-cc6e-4795-ae29-9f20bf7d6a09",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -3950,7 +3950,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -3961,10 +3961,10 @@
    },
    "children": [
     {
-     "id": "324dcd33-18ba-4dcc-a301-5ab4d6a6834c",
+     "id": "f8b232d8-8d5d-45e5-8d7d-cb25b2a95e9f",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T12:10:22.1396578+08:00",
+      "Date": "2024-08-07T14:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 63,
       "Wagon": 11,
@@ -3972,7 +3972,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T12:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T14:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -3989,7 +3989,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "1ba24317-d6ff-4fdb-b064-ae582a0c3d25",
+   "id": "d52fff73-202b-4a53-839a-8a458fa30b15",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4000,7 +4000,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -4011,10 +4011,10 @@
    },
    "children": [
     {
-     "id": "19434711-a230-4b1e-88f5-851068e792d9",
+     "id": "79b3153a-ae91-4cc5-8d00-e56175fd187e",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T13:10:22.1396578+08:00",
+      "Date": "2024-08-07T15:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 64,
       "Wagon": 11,
@@ -4022,7 +4022,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T13:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T15:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4035,10 +4035,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "4972e7d1-bfa6-4007-a6f4-ac6bbc9e22c9",
+     "id": "bc7754b7-813f-4f85-9557-582e584a0f16",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T13:10:22.1396578+08:00",
+      "Date": "2024-08-07T15:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 64,
       "Wagon": 11,
@@ -4046,7 +4046,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T13:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T15:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4063,7 +4063,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "00a50e72-142e-4b50-b138-1296334b6426",
+   "id": "7ed429ea-2c0b-4308-9903-a2c0c5fed84e",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4074,7 +4074,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -4085,10 +4085,10 @@
    },
    "children": [
     {
-     "id": "1e43fdce-fd1b-4783-bfa5-0fdffb74a374",
+     "id": "541bb269-aefc-418c-a3c8-1735ecf70541",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T14:10:22.1396578+08:00",
+      "Date": "2024-08-07T16:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 65,
       "Wagon": 11,
@@ -4096,7 +4096,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T14:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T16:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4113,7 +4113,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "073bf904-c2c1-4011-b7c0-865c6fc2c2d2",
+   "id": "f4cb9ae9-a19e-4efe-ac7e-f2a68f8c9bc6",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4124,7 +4124,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -4135,10 +4135,10 @@
    },
    "children": [
     {
-     "id": "83b643d8-044b-40f7-888a-f71cb93d3530",
+     "id": "8c723680-1604-4024-8611-2e58f71bf3e1",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T15:10:22.1396578+08:00",
+      "Date": "2024-08-07T17:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 66,
       "Wagon": 11,
@@ -4146,7 +4146,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T15:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T17:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4159,10 +4159,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "a0249608-1b5d-4261-b5f2-aedfffe9bbea",
+     "id": "04fdd082-55a6-4d83-a3b0-c552ce2f0b1a",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T15:10:22.1396578+08:00",
+      "Date": "2024-08-07T17:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 66,
       "Wagon": 11,
@@ -4170,7 +4170,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T15:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T17:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4187,7 +4187,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "b391723d-5ca4-4403-aa24-25ad89f29f73",
+   "id": "8a6d4966-17ac-459d-a33f-07e7db6545c1",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4198,7 +4198,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -4209,10 +4209,10 @@
    },
    "children": [
     {
-     "id": "17b3ea46-6d27-491f-b133-f6469b286a5e",
+     "id": "5ba3153d-6b12-4318-a84b-ecc021a0f225",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T16:10:22.1396578+08:00",
+      "Date": "2024-08-07T18:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 67,
       "Wagon": 11,
@@ -4220,7 +4220,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T16:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T18:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4237,7 +4237,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "eb87acc4-aee8-4888-96ab-bee88e7391dc",
+   "id": "ae3b5d83-930f-4efd-bf2c-4cae7b722dd7",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4248,7 +4248,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -4259,10 +4259,10 @@
    },
    "children": [
     {
-     "id": "a3f05994-43d6-41b2-94ef-f41a34051947",
+     "id": "6766de28-1d01-4ea3-b9f6-9eef8f268e97",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T17:10:22.1396578+08:00",
+      "Date": "2024-08-07T19:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 68,
       "Wagon": 11,
@@ -4270,7 +4270,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T17:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T19:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4283,10 +4283,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "b35d62da-5bc1-45c1-8e91-2e1372c3f8c1",
+     "id": "f19ba340-d409-40b7-834d-2cca94510f75",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T17:10:22.1396578+08:00",
+      "Date": "2024-08-07T19:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 68,
       "Wagon": 11,
@@ -4294,7 +4294,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T17:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T19:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4311,7 +4311,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "b88085ce-138d-4790-867e-968886ff857d",
+   "id": "e2efbee5-2d62-431f-b8e6-89e1b6f408c4",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4322,7 +4322,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -4333,10 +4333,10 @@
    },
    "children": [
     {
-     "id": "a626c7e7-6b3d-4492-8b0b-8bed189e7509",
+     "id": "f155fefe-0256-438e-bacc-17d2bbbff987",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T18:10:22.1396578+08:00",
+      "Date": "2024-08-07T20:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 69,
       "Wagon": 11,
@@ -4344,7 +4344,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T18:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T20:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4361,7 +4361,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "af4d8cf2-df6c-4546-a357-1d5233a27f55",
+   "id": "65491bef-1393-4955-9e3d-a6174b154f31",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4372,7 +4372,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -4383,10 +4383,10 @@
    },
    "children": [
     {
-     "id": "310e6e11-9df6-457d-a68d-45b9c38ded4e",
+     "id": "f37d5237-6404-4b1a-aaf7-9fa965d1d66d",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T19:10:22.1396578+08:00",
+      "Date": "2024-08-07T21:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 70,
       "Wagon": 11,
@@ -4394,7 +4394,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T19:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T21:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4407,10 +4407,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "6486bb0d-cb43-416d-89aa-16b22fcf1722",
+     "id": "c52244d2-ba4a-40aa-aff6-6768de5027e1",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T19:10:22.1396578+08:00",
+      "Date": "2024-08-07T21:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 70,
       "Wagon": 11,
@@ -4418,7 +4418,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T19:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T21:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4435,7 +4435,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "722ed990-317c-4438-a264-9009a9d4ce64",
+   "id": "c907bd7c-df42-4184-bd20-bc46920816a4",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4446,7 +4446,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -4457,10 +4457,10 @@
    },
    "children": [
     {
-     "id": "0c9f064b-afb8-49d2-83cb-f0a6feea2697",
+     "id": "4a6e5abe-8ff6-4872-8bef-e4371bc5d59a",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T20:10:22.1396578+08:00",
+      "Date": "2024-08-07T22:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 71,
       "Wagon": 11,
@@ -4468,7 +4468,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T20:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T22:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4485,7 +4485,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "f955226a-33f5-4fbf-9cdb-9e6d4845c0ff",
+   "id": "7a9db020-e133-4d07-a4e5-bb18ed143578",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4496,7 +4496,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -4507,10 +4507,10 @@
    },
    "children": [
     {
-     "id": "469161a1-9873-46d0-8912-6fd6a1098a0a",
+     "id": "157f8836-86bf-4d8b-ab52-cefeeb60a80b",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T21:10:22.1396578+08:00",
+      "Date": "2024-08-07T23:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 72,
       "Wagon": 11,
@@ -4518,7 +4518,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T21:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T23:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4531,10 +4531,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "ba14f0dc-2aaa-4296-b801-abb29445b087",
+     "id": "319af255-47a1-4a22-b34a-6d593d71d7b3",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T21:10:22.1396578+08:00",
+      "Date": "2024-08-07T23:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 72,
       "Wagon": 11,
@@ -4542,7 +4542,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T21:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-07T23:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4559,7 +4559,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "cc393b02-bc3b-404e-91ed-dd3efa4a000d",
+   "id": "7eb05c92-666b-4697-bc81-f67a0907b79f",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4570,7 +4570,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -4581,10 +4581,10 @@
    },
    "children": [
     {
-     "id": "c5ea5221-73e5-4274-9c62-95b8e2a5244e",
+     "id": "eaae0f57-8095-45e5-afb1-f9f1cc99b84e",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T22:10:22.1396578+08:00",
+      "Date": "2024-08-08T00:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 73,
       "Wagon": 11,
@@ -4592,7 +4592,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T22:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T00:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4609,7 +4609,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "1517c36b-2c89-4a60-927e-94f053a98a57",
+   "id": "f83f5688-60af-4a62-91ab-596cb3e8347c",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4620,7 +4620,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -4631,10 +4631,10 @@
    },
    "children": [
     {
-     "id": "c0886c9b-ef07-4863-a4a4-6b832ad76ea1",
+     "id": "6627f8e3-0fe7-4834-89d9-f1b5c7c06d1d",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T23:10:22.1396578+08:00",
+      "Date": "2024-08-08T01:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 74,
       "Wagon": 11,
@@ -4642,7 +4642,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-07T23:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T01:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4655,10 +4655,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "66c3c06e-739c-49b6-8add-ba85c254dc2e",
+     "id": "58478114-c836-4baa-a6be-ac28107b44a8",
      "type": "",
      "Data": {
-      "Date": "2024-08-07T23:10:22.1396578+08:00",
+      "Date": "2024-08-08T01:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 74,
       "Wagon": 11,
@@ -4666,7 +4666,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-07T23:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T01:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4683,7 +4683,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "e68618db-4fd0-4e0f-9905-bbd20d395d16",
+   "id": "4a251451-fc1c-4b81-b39f-704d01c6bb5a",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4694,7 +4694,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -4705,10 +4705,10 @@
    },
    "children": [
     {
-     "id": "4352f3aa-4d77-43d7-ab37-d76d44fd279a",
+     "id": "7d652fe4-530e-435e-aadc-89c12f6f0478",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T00:10:22.1396578+08:00",
+      "Date": "2024-08-08T02:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 75,
       "Wagon": 11,
@@ -4716,7 +4716,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T00:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T02:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4733,7 +4733,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "dfdaaf13-938d-4cd1-869d-37eab27778e5",
+   "id": "6dd12934-ec52-480e-9a9d-a29f2592f505",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4744,7 +4744,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -4755,10 +4755,10 @@
    },
    "children": [
     {
-     "id": "85a8b06c-d999-48db-be24-49f82e2f8310",
+     "id": "57b94fcc-38ff-4f48-8999-922f43abbadc",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T01:10:22.1396578+08:00",
+      "Date": "2024-08-08T03:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 76,
       "Wagon": 11,
@@ -4766,7 +4766,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T01:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T03:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4779,10 +4779,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "df791b5d-a114-4e03-a70e-05093dc61dcb",
+     "id": "bb203db6-6270-4ffc-a729-686f4459ba7a",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T01:10:22.1396578+08:00",
+      "Date": "2024-08-08T03:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 76,
       "Wagon": 11,
@@ -4790,7 +4790,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T01:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T03:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4807,7 +4807,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "103dd2a1-c815-49e8-a0d0-a416007193a0",
+   "id": "bf160773-3e9c-4c48-a834-882c4d0bef0f",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4818,7 +4818,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -4829,10 +4829,10 @@
    },
    "children": [
     {
-     "id": "8b44c585-7d53-4c93-a45d-3cb0d7c5b41a",
+     "id": "26777491-ff2e-449b-9ee6-1573e789d5ad",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T02:10:22.1396578+08:00",
+      "Date": "2024-08-08T04:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 77,
       "Wagon": 11,
@@ -4840,7 +4840,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T02:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T04:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4857,7 +4857,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "92ca1fc3-7275-4fe6-9785-6d5b847894cd",
+   "id": "c0d64207-094c-4cb0-8896-a5325e1a6114",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4868,7 +4868,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -4879,10 +4879,10 @@
    },
    "children": [
     {
-     "id": "59a63f2c-7be4-44dd-ac89-17b6775ba9f5",
+     "id": "164c06e2-1ab7-4f85-b396-40569e3e6142",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T03:10:22.1396578+08:00",
+      "Date": "2024-08-08T05:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 78,
       "Wagon": 11,
@@ -4890,7 +4890,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T03:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T05:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4903,10 +4903,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "33723817-f5f2-4e32-b2b6-4d539fac3329",
+     "id": "ed8c4238-c8c5-4b76-90ae-c65fe42ab9ab",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T03:10:22.1396578+08:00",
+      "Date": "2024-08-08T05:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 78,
       "Wagon": 11,
@@ -4914,7 +4914,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T03:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T05:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4931,7 +4931,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "52fa7b8f-3ded-4216-a103-f6b7723234a6",
+   "id": "017d8059-2761-4463-8d04-781cb443e675",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4942,7 +4942,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -4953,10 +4953,10 @@
    },
    "children": [
     {
-     "id": "0a81bc92-9619-4504-8635-9ba23422744a",
+     "id": "65ebed83-f722-4e12-a676-002dc63eeec0",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T04:10:22.1396578+08:00",
+      "Date": "2024-08-08T06:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 79,
       "Wagon": 11,
@@ -4964,7 +4964,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T04:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T06:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -4981,7 +4981,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "fe90a463-cd72-4e12-9b50-e5537b482122",
+   "id": "a1cc0eed-4804-497d-8946-2f5e585b617d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -4992,7 +4992,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -5003,10 +5003,10 @@
    },
    "children": [
     {
-     "id": "d638d129-33cc-4819-a255-4211de6e13c0",
+     "id": "70c1c556-af0d-4240-b450-d9baee40ae12",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T05:10:22.1396578+08:00",
+      "Date": "2024-08-08T07:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 80,
       "Wagon": 11,
@@ -5014,7 +5014,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T05:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T07:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5027,10 +5027,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "e3cb324c-db42-4b99-bbd0-82aaf6c505f2",
+     "id": "9905922e-6122-4f10-b231-6c3363fe355e",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T05:10:22.1396578+08:00",
+      "Date": "2024-08-08T07:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 80,
       "Wagon": 11,
@@ -5038,7 +5038,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T05:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T07:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5055,7 +5055,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "d5b48023-ade7-4223-bdca-da177348fee2",
+   "id": "360d3371-b813-4bb0-9c52-aa39172ff76c",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5066,7 +5066,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -5077,10 +5077,10 @@
    },
    "children": [
     {
-     "id": "3362c88c-52cf-4889-8efe-475eb0372473",
+     "id": "fed97fc6-5714-47eb-8af2-7115a18f16be",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T06:10:22.1396578+08:00",
+      "Date": "2024-08-08T08:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 81,
       "Wagon": 11,
@@ -5088,7 +5088,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T06:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T08:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5105,7 +5105,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "20418fa5-f460-4b2e-9263-aae6b8c2d993",
+   "id": "71b51014-d140-45ea-b9ca-df12fe7c8635",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5116,7 +5116,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -5127,10 +5127,10 @@
    },
    "children": [
     {
-     "id": "943caab2-c8be-4304-8bba-3898d1facd8d",
+     "id": "ff01f54a-782a-4f25-a60d-f3f906022bf4",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T07:10:22.1396578+08:00",
+      "Date": "2024-08-08T09:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 82,
       "Wagon": 11,
@@ -5138,7 +5138,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T07:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T09:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5151,10 +5151,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "8138311d-14cd-466f-b9d3-b4a52bd6411b",
+     "id": "2c6520ee-dfb5-49ce-aac9-a4d9a1134192",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T07:10:22.1396578+08:00",
+      "Date": "2024-08-08T09:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 82,
       "Wagon": 11,
@@ -5162,7 +5162,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T07:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T09:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5179,7 +5179,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "3baf59b8-f0d4-4576-ad73-5b810bfbfb20",
+   "id": "38be6727-109e-487a-972d-6594441ef473",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5190,7 +5190,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -5201,10 +5201,10 @@
    },
    "children": [
     {
-     "id": "ee6360cf-6ffc-4160-add8-88dbbe174c1c",
+     "id": "867a6bc9-3f79-43b5-a498-3365f4238f45",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T08:10:22.1396578+08:00",
+      "Date": "2024-08-08T10:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 83,
       "Wagon": 11,
@@ -5212,7 +5212,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T08:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T10:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5229,7 +5229,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "926c262e-2c3d-4d67-bdd1-f43d47f5d30c",
+   "id": "2e833d87-221f-4a4d-b583-1663ed23f24b",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5240,7 +5240,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -5251,10 +5251,10 @@
    },
    "children": [
     {
-     "id": "8096ea5e-d75b-4ef2-9503-273e2b60a85d",
+     "id": "4e58d102-0bff-420c-88ee-053970032b4a",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T09:10:22.1396578+08:00",
+      "Date": "2024-08-08T11:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 84,
       "Wagon": 11,
@@ -5262,7 +5262,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T09:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T11:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5275,10 +5275,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "baa9038c-78f8-4283-bd11-1de5002a2fa0",
+     "id": "9ec1ddd3-979a-40ae-a808-354bcf32fd19",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T09:10:22.1396578+08:00",
+      "Date": "2024-08-08T11:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 84,
       "Wagon": 11,
@@ -5286,7 +5286,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T09:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T11:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5303,7 +5303,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "ac23b916-e3c5-48cd-8582-a3c38799eea2",
+   "id": "467b2ae8-1304-411e-a7f9-c5bf56b1628f",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5314,7 +5314,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -5325,10 +5325,10 @@
    },
    "children": [
     {
-     "id": "48e4f52b-91fb-4b99-b7c3-f89f4a445215",
+     "id": "685d3559-919b-400a-9e1f-0ae84fac7569",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T10:10:22.1396578+08:00",
+      "Date": "2024-08-08T12:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 85,
       "Wagon": 11,
@@ -5336,7 +5336,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T10:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T12:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5353,7 +5353,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "fc00acd2-8086-4378-af62-16dd7224aa67",
+   "id": "06850f88-6bc6-4e5e-a3f4-b5f777bf102b",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5364,7 +5364,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -5375,10 +5375,10 @@
    },
    "children": [
     {
-     "id": "9e4402f1-aa69-44d7-b5fd-99efc6d82e5e",
+     "id": "0a1bbcde-306c-4962-8bf3-0349ee8e4058",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T11:10:22.1396578+08:00",
+      "Date": "2024-08-08T13:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 86,
       "Wagon": 11,
@@ -5386,7 +5386,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T11:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T13:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5399,10 +5399,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "1041aa84-adcb-44b8-9c91-396983cb854c",
+     "id": "516e461d-1dc4-423e-a8fc-f34edcaa0b32",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T11:10:22.1396578+08:00",
+      "Date": "2024-08-08T13:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 86,
       "Wagon": 11,
@@ -5410,7 +5410,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T11:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T13:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5427,7 +5427,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "0b2e56d5-37fa-4231-8fd3-ea6686ce21e9",
+   "id": "9f6b7f20-94ea-4ca3-9d20-24421362ba3d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5438,7 +5438,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -5449,10 +5449,10 @@
    },
    "children": [
     {
-     "id": "38bb2fae-dedc-4f54-87ad-3c82a5f95e4f",
+     "id": "bed4c8b6-6914-4de1-be52-caab838c50b7",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T12:10:22.1396578+08:00",
+      "Date": "2024-08-08T14:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 87,
       "Wagon": 11,
@@ -5460,7 +5460,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T12:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T14:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5477,7 +5477,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "4d159c1e-3192-425f-b46e-d80db88a5ce6",
+   "id": "a5fffddb-0339-46c6-9430-531a0906cc2d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5488,7 +5488,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -5499,10 +5499,10 @@
    },
    "children": [
     {
-     "id": "8b6eddc8-d643-4275-87fd-329dfe978d28",
+     "id": "e03dfc83-b84e-4dc9-b6f4-7e64a9e27409",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T13:10:22.1396578+08:00",
+      "Date": "2024-08-08T15:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 88,
       "Wagon": 11,
@@ -5510,7 +5510,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T13:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T15:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5523,10 +5523,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "efaf031c-d2d3-448f-9cf7-f7a4f3549318",
+     "id": "e5e49b56-ff34-4d53-a50e-8c21f98fa5f5",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T13:10:22.1396578+08:00",
+      "Date": "2024-08-08T15:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 88,
       "Wagon": 11,
@@ -5534,7 +5534,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T13:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T15:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5551,7 +5551,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "481a118f-2e86-49c7-bb47-6b84e63191ef",
+   "id": "ff709fce-7f67-4dcd-ba0f-ba74a934c816",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5562,7 +5562,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -5573,10 +5573,10 @@
    },
    "children": [
     {
-     "id": "06ba7271-fb65-4528-9788-f4a503639e61",
+     "id": "2c8a883b-5cd1-4ff6-8a7c-e7c6c62105d9",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T14:10:22.1396578+08:00",
+      "Date": "2024-08-08T16:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 89,
       "Wagon": 11,
@@ -5584,7 +5584,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T14:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T16:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5601,7 +5601,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "2717215b-a2b8-496a-9a36-4124e737bab1",
+   "id": "c3c7633c-8529-4dff-a2c2-2cfae018eb43",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5612,7 +5612,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -5623,10 +5623,10 @@
    },
    "children": [
     {
-     "id": "a752c3b6-654f-4b92-9958-f1e974fb3492",
+     "id": "7c6f03bf-aab6-4030-81eb-323dbab1cc9a",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T15:10:22.1396578+08:00",
+      "Date": "2024-08-08T17:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 90,
       "Wagon": 11,
@@ -5634,7 +5634,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T15:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T17:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5647,10 +5647,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "dad636e5-6f9c-4d2c-a552-983328de4de4",
+     "id": "a6a07c7f-4f0c-4e2d-8608-f25864149c59",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T15:10:22.1396578+08:00",
+      "Date": "2024-08-08T17:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 90,
       "Wagon": 11,
@@ -5658,7 +5658,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T15:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T17:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5675,7 +5675,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "449b655f-327f-44cc-a228-daefb6e50b69",
+   "id": "21af8004-fc49-4d78-ac56-96de50ea9a70",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5686,7 +5686,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -5697,10 +5697,10 @@
    },
    "children": [
     {
-     "id": "2ce0f3cb-5b53-49c5-83d7-af9b3114503c",
+     "id": "8a5d4f77-a374-47cd-a919-4f239d28eb82",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T16:10:22.1396578+08:00",
+      "Date": "2024-08-08T18:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 91,
       "Wagon": 11,
@@ -5708,7 +5708,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T16:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T18:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5725,7 +5725,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "dccd6125-72a1-4008-ab0f-60453767fedf",
+   "id": "19ab981e-0ca4-4ee8-b0f7-530453eab600",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5736,7 +5736,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -5747,10 +5747,10 @@
    },
    "children": [
     {
-     "id": "16190ba5-5830-439c-9ee3-ef8b60622b06",
+     "id": "a31bce38-d8d3-4229-9250-1bdbdacad50b",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T17:10:22.1396578+08:00",
+      "Date": "2024-08-08T19:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 92,
       "Wagon": 11,
@@ -5758,7 +5758,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T17:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T19:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5771,10 +5771,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "2fe6c97f-d620-4532-b3db-c32ebcbbd0b0",
+     "id": "5e742405-a672-40a8-8cb1-5477b1efcabb",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T17:10:22.1396578+08:00",
+      "Date": "2024-08-08T19:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 92,
       "Wagon": 11,
@@ -5782,7 +5782,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T17:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T19:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5799,7 +5799,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "5c52160c-cc3a-4057-b08d-1dcec498b0d3",
+   "id": "1f62299f-9a9a-4dfc-a8c2-7fc3a9d63f40",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5810,7 +5810,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -5821,10 +5821,10 @@
    },
    "children": [
     {
-     "id": "4fd4fc2c-abcd-4055-99a9-a12b25319ec6",
+     "id": "16ee2fe0-9950-455a-b257-5802809a5faf",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T18:10:22.1396578+08:00",
+      "Date": "2024-08-08T20:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 93,
       "Wagon": 11,
@@ -5832,7 +5832,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T18:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T20:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5849,7 +5849,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "16899ac8-104b-4c6e-89f6-1b44e196084f",
+   "id": "f85c7bf7-4cd7-4925-aaea-cd36837d5c9a",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5860,7 +5860,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -5871,10 +5871,10 @@
    },
    "children": [
     {
-     "id": "0c4060a1-6353-4dd2-884f-23a2ee93e40f",
+     "id": "041371ff-b76a-4374-a0ec-d1e193177780",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T19:10:22.1396578+08:00",
+      "Date": "2024-08-08T21:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 94,
       "Wagon": 11,
@@ -5882,7 +5882,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T19:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T21:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5895,10 +5895,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "523e50a5-e495-4f67-bdd5-f09309cb33a6",
+     "id": "d54ba6a5-e1b2-4e96-b6bb-63ec67f954e1",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T19:10:22.1396578+08:00",
+      "Date": "2024-08-08T21:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 94,
       "Wagon": 11,
@@ -5906,7 +5906,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T19:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T21:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5923,7 +5923,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "1552b58e-54eb-4e58-8d5f-23e79f9eee7f",
+   "id": "f0f59dd4-81eb-46da-92e0-690cb59e549e",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5934,7 +5934,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -5945,10 +5945,10 @@
    },
    "children": [
     {
-     "id": "56b8cfdb-9a44-4850-a20c-f55015de035a",
+     "id": "2c10a774-edfe-40d6-9eb9-25dd7022a97b",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T20:10:22.1396578+08:00",
+      "Date": "2024-08-08T22:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 95,
       "Wagon": 11,
@@ -5956,7 +5956,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T20:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T22:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -5973,7 +5973,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "4f537e5c-bf62-4160-ba4c-11596bc24c0b",
+   "id": "ab34d100-0a94-4056-858f-1519e2e19a3d",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -5984,7 +5984,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -5995,10 +5995,10 @@
    },
    "children": [
     {
-     "id": "dbb05a84-01a8-419a-b11b-df4aa7ccb89b",
+     "id": "52044838-1f85-4748-8477-72a588cae097",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T21:10:22.1396578+08:00",
+      "Date": "2024-08-08T23:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 96,
       "Wagon": 11,
@@ -6006,7 +6006,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T21:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T23:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -6019,10 +6019,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "fd32778c-adf2-4e91-a849-41a8d3d278a5",
+     "id": "7ddb3d0b-0b83-48fe-9a97-4c076fba0b16",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T21:10:22.1396578+08:00",
+      "Date": "2024-08-08T23:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 96,
       "Wagon": 11,
@@ -6030,7 +6030,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T21:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-08T23:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -6047,7 +6047,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "eb7932a6-d14e-4df8-ac35-fccc1db11da2",
+   "id": "fd3d9ada-4276-4595-9d9c-580a1ad4a238",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -6058,7 +6058,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -6069,10 +6069,10 @@
    },
    "children": [
     {
-     "id": "437372f6-d36f-441c-b447-1507272b4d21",
+     "id": "ca89d03b-23a4-4355-8130-bacf0c452440",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T22:10:22.1396578+08:00",
+      "Date": "2024-08-09T00:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 97,
       "Wagon": 11,
@@ -6080,7 +6080,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T22:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-09T00:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -6097,7 +6097,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "c7001cf5-6a38-41b2-9bb6-209f98c2f7b1",
+   "id": "186a1a5f-559e-4ac2-934e-b10f92dd2905",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -6108,7 +6108,7 @@
     "Price": 13,
     "Payment": 28,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 60,
     "Unsettled": 80,
@@ -6119,10 +6119,10 @@
    },
    "children": [
     {
-     "id": "d87b3a33-350d-4a07-8bef-c6a95d0fdb72",
+     "id": "fdfcde3c-9694-4629-b948-cff072826811",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T23:10:22.1396578+08:00",
+      "Date": "2024-08-09T01:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 98,
       "Wagon": 11,
@@ -6130,7 +6130,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-08T23:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-09T01:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -6143,10 +6143,10 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "e0b8bd82-750b-4e65-8437-108b3de89ce4",
+     "id": "92970f86-22c4-4937-ac4e-a47523c1ff07",
      "type": "",
      "Data": {
-      "Date": "2024-08-08T23:10:22.1396578+08:00",
+      "Date": "2024-08-09T01:09:07.8655998+08:00",
       "Name": "ddkwork",
       "GrossWeight": 98,
       "Wagon": 11,
@@ -6154,7 +6154,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "18188888888",
-      "SettlementDate": "2024-08-08T23:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-09T01:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
@@ -6171,7 +6171,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "052d402e-a794-4b97-9e3b-d6f0fe0f3176",
+   "id": "7d1c3f08-bef7-4f8d-8f68-c2d08be9e598",
    "type": "2024-08-04_container",
    "Data": {
     "Date": "0001-01-01T00:00:00Z",
@@ -6182,7 +6182,7 @@
     "Price": 13,
     "Payment": 14,
     "Phone": "01234567890",
-    "SettlementDate": "2024-08-04T21:10:22.1396578+08:00",
+    "SettlementDate": "2024-08-04T23:09:07.8655998+08:00",
     "Settler": "asd",
     "Settled": 30,
     "Unsettled": 40,
@@ -6193,10 +6193,10 @@
    },
    "children": [
     {
-     "id": "8203d18c-0440-48da-8126-c974e8618bb0",
+     "id": "948c044d-7c61-4996-aa5a-51c9998f8492",
      "type": "",
      "Data": {
-      "Date": "2024-08-09T00:10:22.1396578+08:00",
+      "Date": "2024-08-09T02:09:07.8655998+08:00",
       "Name": "kGe",
       "GrossWeight": 99,
       "Wagon": 11,
@@ -6204,7 +6204,7 @@
       "Price": 13,
       "Payment": 14,
       "Phone": "01234567890",
-      "SettlementDate": "2024-08-09T00:10:22.1396578+08:00",
+      "SettlementDate": "2024-08-09T02:09:07.8655998+08:00",
       "Settler": "asd",
       "Settled": 30,
       "Unsettled": 40,
